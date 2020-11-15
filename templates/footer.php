@@ -1,0 +1,2 @@
+<p><a href="index.php">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="newestvideo.php">Another Page</a> | <a href="contact.php">Contact Us</a></p>
+      <p>Copyright &copy; M.J</p>
